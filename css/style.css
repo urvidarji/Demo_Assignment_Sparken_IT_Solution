@@ -27,7 +27,14 @@ a {
 }
 
 /* ================= TOP BAR ================= */
+.top-navbar a{
 
+    background: #fff;
+    color: #000;
+    padding: 10px;
+    border-radius: 3px;
+
+}
 .top-bar {
     height: 8px;
     background: var(--primary-blue);
